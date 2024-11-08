@@ -1,2 +1,2 @@
 # Clock
-This is my simple java code
+This is my simple fun java code
